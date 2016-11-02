@@ -1,0 +1,16 @@
+
+1. ICON: OK
+
+2. Flash screen: OK
+
+3. Hom screen:  - Icon để nhỏ, thiếu màn hình login (Tham khảo file gửi kèm thiết kế lại icon function)
+                
+                - Phía dưới thêm thông tin Copyry @YUME - HOTLINE: (Lựa chọn màu nổi bật) 
+
+4. Màn hình Account tham khảo lại mành hình account gửi kèm, thiếu avatar upload ảnh, hiển thị thông tin dưới dạng line text không cần hiển thị text box
+
+5. Tin tức   - Thêm thông tin ngày tháng, một số ICON đánh dấu tin mới, tin hót gắn vào tin
+             - Thiếu màn hình chi tiết tin
+
+6. Thiếu màn hình hồ sơ             
+             - Màn hình hồ sơ về cơ bản cũng tạo form edit thông tin giống như account
